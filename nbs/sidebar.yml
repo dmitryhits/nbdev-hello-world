@@ -3,3 +3,4 @@ website:
     contents:
       - index.ipynb
       - 00_main.ipynb
+      - 27_utility.affine_transformations.ipynb
